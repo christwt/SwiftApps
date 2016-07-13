@@ -5,20 +5,20 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>4266796D-91B5-43CD-8A5B-7C44EECCBD2B</string>
+	<string>F9645B1B-2B82-4DF6-82B8-F6555AF0338D</string>
 	<key>IDESourceControlProjectName</key>
-	<string>Playgrounds</string>
+	<string>MyPlayground</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>4FBF26658D6D653943D141DE34C42E66AFE8E5C5</key>
 		<string>https://github.com/christwt/SwiftApps.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Playgrounds/Playgrounds.xcodeproj</string>
+	<string>Playgrounds/MyPlayground.playground</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>4FBF26658D6D653943D141DE34C42E66AFE8E5C5</key>
-		<string>../../..</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/christwt/SwiftApps.git</string>

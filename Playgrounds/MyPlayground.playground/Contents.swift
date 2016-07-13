@@ -120,6 +120,56 @@ if name1 == "Will" {
     
 }
 
+// ---------- for loops -----------------
 
+for var i = 1; i < 10; i += 1 {
+    
+    println(i)
+    
+}
+
+var myArr = [6, 3, 8, 1]
+
+for x in myArr {
+    
+    println(x)
+    
+}
+
+for (index, x) in enumerate(myArr) {
+    
+    myArr[index] = x + 1
+
+}
+
+println(myArr)
+
+// --------------- while loops ------------------
+var l = 1
+
+while l < 5 {
+    
+    println(l)
+    l++
+    
+}
+
+var arr2 = [6, 2, 9, 1, 7, 4]
+var index = 0
+
+while index < arr2.count {
+    
+    println(arr2[index])
+    index++
+    
+}
+
+index = 0
+
+while index < arr2.count {
+    
+    arr2[index] = arr2[index] - 1
+    index++
+}
 
 
